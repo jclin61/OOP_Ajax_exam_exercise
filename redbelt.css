@@ -1,0 +1,20 @@
+#product{
+	width:320px;
+	text-align: left;
+	margin-left: 50px;
+	margin-bottom: 50px;
+}
+#add{
+	float:right;
+	margin-right: 40px;
+	width: 60px;
+}
+textarea{
+	margin-left: 20px;
+	width: 175px;
+	height: 100px;
+}
+select{
+	margin-left: 35px;
+	width: 180px;
+}
